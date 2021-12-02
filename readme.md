@@ -12,7 +12,7 @@ En este examen voy a poner en práctica todos los conocimientos sobre GIT que he
 
 ### Objetivo
 
-Crearemos una web para el instituto [IES Pablo Picasso] (https://iespablopicasso.es/web/)
+Crearemos una web para el instituto [IES Pablo Picasso](https://iespablopicasso.es/web/)
 
 
 El comando inicial de Git es
